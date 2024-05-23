@@ -1,0 +1,1 @@
+functions = lambda x, y, z: 5 * x * (y**3) + 7 * z
